@@ -2,18 +2,28 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "title": "json test",
+      "author": "james"
+    },
+    {
+      "id": 2,
+      "title": "json sky",
+      "author": "nick"
+    },
+    {
+      "id": 3,
+      "title": "json world",
+      "author": "tom"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "some com",
       "postId": 1
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "man"
   }
 }
